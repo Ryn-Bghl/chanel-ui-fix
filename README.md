@@ -2,7 +2,7 @@
 
 ## 🔍 Contexte
 
-En explorant le site [Chanel.com](https://www.chanel.com), j’ai remarqué un dysfonctionnement affectant l’affichage du formulaire de contact.
+En explorant le site [Chanel.com](https://www.chanel.com), j’ai remarqué un dysfonctionnement affectant l’affichage du [formulaire de contact](https://services.chanel.com/en_WW/contact).
 
 Ce dépôt présente ma reproduction du bug et la proposition de correction que j’ai mise en œuvre à des fins pédagogiques.
 
